@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "name": "Computer",
+      "price": 5600,
+      "checked": true,
+      "id": 1
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Computer22",
+      "price": 5600,
+      "checked": false,
+      "id": 2
+    },
+    {
+      "name": "Smart 6666",
+      "price": "4500",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "mmmmm",
+      "price": "5400",
+      "checked": true,
+      "id": 7
+    },
+    {
+      "name": "test",
+      "price": "333",
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "cccc",
+      "price": 0,
+      "checked": true,
+      "id": 9
+    }
+  ]
+}
